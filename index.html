@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Recruit AI</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <button id="themeToggle">🌙</button>
+
+  <header>
+
+    <h1>RecruitAI</h1>
+
+    <p>
+        AI-Powered Resume Screening & Candidate Ranking Platform
+    </p>
+
+    <div class="tech-stack">
+        <span>React.js</span>
+        <span>FastAPI</span>
+        <span>Python</span>
+        <span>NLP</span>
+        <span>Sentence Transformers</span>
+        <span>Cosine Similarity</span>
+    </div>
+
+    <div class="project-actions">
+        <a href="https://github.com/varshithalu/RecruitAI" class="btn">
+            GitHub Repository
+        </a>
+    </div>
+
+</header>
+
+<section class="section-title">
+    <h2>📸 Project Showcase</h2>
+
+    <p>
+        AI-driven recruitment workflow from job description upload to candidate matching.
+    </p>
+</section>
+
+<section class="gallery">
+
+    <!-- Hero Section -->
+
+    <div class="card">
+        <img src="results/hero-section.png" alt="">
+        <div class="overlay">
+            <h3>Hero Section</h3>
+            <p>
+                Landing page introducing the AI recruitment platform and its core capabilities.
+            </p>
+        </div>
+    </div>
+
+    <!-- Home Page -->
+
+    <div class="card">
+        <img src="results/home-page.png" alt="">
+        <div class="overlay">
+            <h3>Home Dashboard</h3>
+            <p>
+                Main platform interface where recruiters can begin candidate evaluation.
+            </p>
+        </div>
+    </div>
+
+    <!-- Resume Upload -->
+
+    <div class="card">
+        <img src="results/jd-resume-upload.jpeg" alt="">
+        <div class="overlay">
+            <h3>JD & Resume Upload</h3>
+            <p>
+                Upload job descriptions and resumes for AI-based similarity matching and ranking.
+            </p>
+        </div>
+    </div>
+
+</section>
+
+    <div class="lightbox" id="lightbox">
+
+        <span class="close">&times;</span>
+
+        <button class="nav-btn prev">&#10094;</button>
+
+        <img id="lightboxImg" src="" alt="">
+
+        <button class="nav-btn next">&#10095;</button>
+
+        <div id="lightboxCaption"></div>
+
+    </div>
+
+    <script src="main.js"></script>
+
+</body>
+
+</html>
