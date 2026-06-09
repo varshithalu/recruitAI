@@ -25,19 +25,15 @@ The platform helps recruiters reduce manual screening time and improves hiring e
 ## 🛠️ Tech Stack
 
 ### Frontend
-
 * React.js
 * Tailwind CSS
-* Framer Motion
 
 ### Backend
-
 * FastAPI
 * Python
 * REST APIs
 
 ### AI / NLP
-
 * Sentence Transformers
 * NLP Processing
 * Cosine Similarity
@@ -45,7 +41,6 @@ The platform helps recruiters reduce manual screening time and improves hiring e
 * Text Embeddings
 
 ### Database
-
 * PostgreSQL / MongoDB
 
 ---
@@ -62,55 +57,27 @@ The platform helps recruiters reduce manual screening time and improves hiring e
 
 ---
 
-## 📂 Project Structure
-
-```bash
-recruitAI/
-│
-├── frontend/
-├── backend/
-├── ai-engine/
-├── uploads/
-└── README.md
-```
-
----
-
-## 📸 Screenshots
-
-* Hero Section
-* Resume Upload Page
-* Home Dashboard
-* JD Matching Interface
-
----
-
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/recruitAI.git
+git clone https://github.com/varshithalu/recruitAI.git
 cd recruitAI
 ```
-
+## Frontend
 ```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## Backend
+```bash
+cd backend
 pip install -r requirements.txt
 npm install
 ```
 
----
-
-## 🎯 Future Enhancements
-
-* Interview scheduling
-* AI-generated interview questions
-* Candidate analytics dashboard
-* Multi-language resume support
-* Voice interview analysis
-
----
-
 ## 👩‍💻 Author
+Varshitha L U
+luvarshitha3139@gmail.com
 
-Varshitha
-
----
