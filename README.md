@@ -1,5 +1,10 @@
-
 # 📄 RecruitAI – AI Resume Screening Platform
+
+<p> <h2>🌟 Project Showcase </h2>
+  <a href="https://varshithalu.github.io/recruitAI/" target="_blank">
+    <img src="https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge" />
+  </a>
+</p>
 
 ## 📌 Overview
 
@@ -78,7 +83,11 @@ npm install
 ```
 
 ## 👩‍💻 Author
-Varshitha L U
-[Gmail] luvarshitha3139@gmail.com 
-[LinkedIn](https://www.linkedin.com/in/varshithalu/)
+**Varshitha L U**
+
+📧 [luvarshitha3139@gmail.com](mailto:luvarshitha3139@gmail.com)
+
+💼 [LinkedIn - varshithalu](https://www.linkedin.com/in/varshithalu/)
+
+💻 [Github - varshithalu](https://github.com/varshithalu)
 
