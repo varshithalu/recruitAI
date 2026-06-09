@@ -79,5 +79,6 @@ npm install
 
 ## 👩‍💻 Author
 Varshitha L U
-luvarshitha3139@gmail.com
+[Gmail] luvarshitha3139@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/varshithalu/)
 
